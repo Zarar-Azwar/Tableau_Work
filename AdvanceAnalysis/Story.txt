@@ -1,0 +1,27 @@
+Executive Summary: 
+KPI's: Total Orders are 12,620 and Sales are 2,931,010 $ and Profit generated is 366,029 $ 
+Regional Sales: In our data exploration, we've uncovered significant trends in our sales and profitability by state. California stands out as both the highest-sales and most profitable state, demonstrating our stronghold in the region. Texas, on the other hand, presents an intriguing scenario. While it records substantial sales, it also incurs losses, prompting us to delve deeper into this anomaly. New York follows closely as the second-highest sales state, yet it, too, struggles with profitability.
+Orders Frequency with Customer Segment: Shifting our focus to customer segments, we observe that the 'Consumer' segment boasts the highest volume of orders, signifying a strong customer base. Following this, we find the 'Corporate' segment contributing to our sales, and 'Home Office' trailing behind.
+
+Customer Analysis
+In our analysis, we've made noteworthy observations that shed light on our profitability, top-selling products, and customer behavior.
+Profit Margin of Customers
+Firstly, we've identified that our 'Good' customers exhibit the highest profit margin ratios, underlining their significant positive impact on our bottom line. Conversely, 'Bad' customers tend to generate negative profit margins, requiring a closer look at our strategies.
+Top Selling Products By Sub Category:
+In the Furniture category, 'Chairs' emerge as the top-selling product, while the Office Supply category sees strong sales in 'Storage' and 'Binders,' with minimal sales variance between them. Within the Technology category, the 'Apple iPhone' stands out with exceptional sales performance.
+Customer Behaviour in Sales, Orders, Highest Paying
+Turning our attention to customer behavior, 'Michel More' has the longest tenure as a customer, emphasizing their loyalty to our brand. Meanwhile, 'Emily Phan' leads the pack with an impressive 17 orders, showcasing her frequent engagement. Finally, 'Seth Vernon' takes the spotlight with the highest sales and quantity, contributing significantly to our revenue.
+These insights provide us with a clear roadmap for optimizing our strategies and leveraging our strengths for sustained business success.
+Concluded Analysis
+In our data exploration, we've uncovered key insights that hold significant implications for our business.
+Month On Month Analysis:
+Firstly, we've identified that the highest positive difference in performance is observed in September 2023, while the most substantial negative difference occurred in March 2020. These temporal variations are essential for us to understand and manage.
+In terms of profitability, March 2021 stands out with the lowest margin, signaling an area that requires attention and optimization.
+Turning our focus to regional sales management, Sadie Pawthorne emerges as the top-performing Regional Manager with the highest sales figures, while Fred Suzuki, in contrast, faces challenges with lower sales performance.
+Highest & Lowest Selling Product
+Product-wise, 'Eureka Disposable Bags for Sanitaire Vibra Groomer' ranks as our lowest-selling product, highlighting the need for reevaluation. On the flip side, the 'Canon Image Class 2200' is our highest-selling product, representing a significant revenue contributor.
+Returned and Successful Orders Analysis
+Our analysis also revealed that the 'Office Supplies' category boasts the highest number of successful orders, totaling 21,433, with a notable quantity of returns at 7,367. This data is vital for inventory and customer satisfaction management.
+Highest Ordered Returned Analysis
+Lastly, we've identified that California demonstrates the highest customer retention ratio. This underscores the importance of understanding regional dynamics to replicate successful strategies in other areas.
+These insights empower us to make informed decisions, prioritize areas of improvement, and capitalize on our strengths to drive business growth and success.
